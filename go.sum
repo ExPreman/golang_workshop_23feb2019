@@ -1,0 +1,10 @@
+github.com/lib/pq v1.0.0 h1:X5PMW56eZitiTeO7tKzZxFCSpbFZJtkMMooicw2us9A=
+github.com/lib/pq v1.0.0/go.mod h1:5WUZQaWbwv1U+lTReE5YruASi9Al49XbQIvNi/34Woo=
+github.com/payfazz/go-handler v0.0.0-20181223103803-b41ecccfc668 h1:lwk6WA8KnP5vi9ukBYwktZhHydwyYSW5wNaRNh5WLkY=
+github.com/payfazz/go-handler v0.0.0-20181223103803-b41ecccfc668/go.mod h1:LiZB6AblxxhBJ2vtfs8lP147DyKkhNtjT/GdgKTcAD4=
+github.com/payfazz/go-middleware v0.0.0-20181223104938-0fb8bfb3af6b h1:ZJG9OJDIN+IStP/CzUphcUYErkMr6Qbayd2HsrPc/7w=
+github.com/payfazz/go-middleware v0.0.0-20181223104938-0fb8bfb3af6b/go.mod h1:YwCs+VnHqPqJfJo6ZQ7oYfbSeKxhrdVpkmuMVbgVQvY=
+github.com/payfazz/go-router v0.0.0-20190101074039-424514b79894 h1:RF8cNhrQ0/7wSEa7heEEnB69aU5r/Rd4++MCYWGbQjY=
+github.com/payfazz/go-router v0.0.0-20190101074039-424514b79894/go.mod h1:W0qhPdSb1Tf8FS6V4eZ/GgDQMUzKO6ZlKA6WV/n6nbc=
+github.com/payfazz/psql-migration v0.0.0-20190220163118-b1a8c76c0619 h1:d4J2d3/rBKhpXh7kqO1srIz/IE+gVcawt7PnbwvNaGg=
+github.com/payfazz/psql-migration v0.0.0-20190220163118-b1a8c76c0619/go.mod h1:3OHvfImyvia/53H4J9OSXgd2i+cwVn7zSiqIf7bEqVE=
